@@ -1,0 +1,186 @@
+anorak
+apron
+ascot tie
+balaclava
+ball gown
+bandanna
+baseball cap
+bathing suit
+beanie
+belt
+beret
+bikini
+blazer
+bloomers
+blouse
+bonnet
+boot
+bow tie
+boxer shorts
+boxers
+bracelet
+briefs
+buckle
+button
+button down shirt
+camisole
+cap and gown
+cape
+capris
+cardigan
+cloak
+clogs
+coat
+collar
+costume
+cowboy boots
+cowboy hat
+crown
+cuff links
+culottes
+diaper
+dinner jacket
+dirndl
+dress
+earmuffs
+earrings
+evening gown
+fashion
+fedora
+flak jacket
+flannel nightgown
+flannel shirt
+flip flops
+formal wear
+frock
+fur coat
+galoshes
+garment
+garters
+glasses
+gloves
+halter top
+handbag
+handkerchief
+Hawaiian shirt
+hazmat suit
+helmet
+high heels
+hoodie
+hook and eye
+hosiery
+hospital gown
+housecoat
+jacket
+jeans
+jewelry
+jumper
+jumpsuit
+kerchief
+khakis
+kimono
+lab coat
+lapels
+leather jacket
+leggings
+leotard
+life jacket
+loafers
+longjohns
+miniskirt
+mittens
+moccasins
+muffler
+neckerchief
+necklace
+nightgown
+nightshirt
+outerwear
+overalls
+overcoat
+pajamas
+panama hat
+pants
+pantsuit
+pantyhose
+parka
+pea coat
+petticoat
+pinafore
+pleat
+pocket
+pocketbook
+polo shirt
+poncho
+porkpie hat
+pullover
+pumps
+purse
+raincoat
+ring
+robe
+rugby shirt
+sandals
+scarf
+school uniform
+sheath dress
+shift
+shirt
+shoe
+shorts
+skirt
+slacks
+slip
+slippers
+smock
+snaps
+sneakers
+sock
+spacesuit
+Stetson hat
+stockings
+suit
+sunbonnet
+sundress
+sunglasses
+sun hat
+suspenders
+sweater
+sweats
+swimsuit
+tshirt
+tank top
+tiara
+tie clip
+tights
+toga
+top hat
+train
+trunks
+turtleneck
+trench coat
+trousers
+trunks
+tube top
+tunic
+turban
+turtle neck shirt
+tuxedo
+tweed jacket
+undershirt
+underwear
+uniform
+veil
+Velcro
+vest
+vestments
+visor
+waders
+waistcoat
+wedding gown
+Wellingtons
+wetsuit
+windbreaker
+yoke
+zipper
+zoris

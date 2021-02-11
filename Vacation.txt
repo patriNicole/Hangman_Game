@@ -1,0 +1,136 @@
+airfare
+airplane
+airport
+amusement park
+automobile
+backpack
+baggage
+bags
+bathing suit
+beach
+bicycle
+bike
+boat
+bus
+cab
+cabin
+camera
+campground
+camping
+carry on
+coast
+cruise
+cruise ship
+currency
+customs
+depart
+departure
+destination
+downtime
+embark
+excursion
+expedition
+explore
+ferry
+flight
+foreign
+foreigner
+garment bag
+getaway
+guide
+guided tour
+hiatus
+highway
+hike
+holiday
+hostel
+hotel
+island
+itenerary
+journey
+keepsake
+knapsack
+lake
+landing
+leisure
+lodge
+lodging
+luggage
+motel
+mountains
+museum
+national park
+ocean liner
+outdoors
+overnight bag
+pack
+passage
+passport
+photos
+photographs
+pictures
+plane
+port
+postcard
+recreation
+red eye
+relax
+relaxation
+reservations
+resort
+rest
+restaurant
+room
+sack
+safari
+sail
+scenery
+seashore
+ship
+shore
+sights
+sight seeing
+ski lodge
+souvenir
+state park
+station
+stay
+subway
+suitcase
+swim
+swimsuit
+takeoff
+taxi
+tent
+ticket
+tour
+tour bus
+tour guide
+tourist
+trail
+train
+train station
+tram
+tramway
+translate
+transportation
+travel
+travel agent
+travel bag
+trip
+trunk
+umbrella
+unpack
+vacation
+vehicle
+video
+video camera
+visa
+visit
+voyage
+walk
+wander
+waterfall
+waterpark
+weekend
+yacht

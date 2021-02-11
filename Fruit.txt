@@ -1,0 +1,37 @@
+apple
+banana
+berry
+blackberry
+blood orange
+blueberry
+dragonfruit
+orange
+papaya
+passion fruit
+peach
+pear
+persimmon
+pineapple
+plantain
+plum
+pluot
+pomegranite
+pomelo
+prune
+raspberry
+watermelon
+nectarine
+mandarin orange
+mango
+marionberry
+melon
+mulberry
+strawberry
+lemon
+lime
+lingonberry
+loquat
+lychee
+grape
+grapefruit
+guava
